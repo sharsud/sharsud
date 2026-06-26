@@ -268,6 +268,46 @@ https://github.com/sharsud/ds_socket_drawing
 
 ---
 
+## ☕ Selenium Java Automation Frameworks
+
+<img align="right" width="140" src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+
+A collection of **production-style Selenium automation frameworks** demonstrating multiple industry-standard approaches to UI automation using Java.
+
+Designed to showcase framework architecture, test organization, and CI-ready execution for real-world automation projects.
+
+✨ **Highlights**
+
+- 🏗️ Maven Project Structure
+- 🧪 TestNG Framework
+- 🥒 Cucumber BDD Framework
+- ⚙️ Jenkins-ready Execution
+- 📊 Reporting & Assertions
+- 🔄 Scalable Framework Design
+
+### 🛠 Tech Stack
+
+<p>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TestNG-Testing-E76F00?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Cucumber-BDD-23D96C?style=flat-square&logo=cucumber&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+
+</p>
+
+🔗 **Repository**
+
+https://github.com/sharsud/Selenium-Java-multipleFw
+
+---
 ## 💻 Selenium with Python Lessons
 
 Repository containing all source code used in my **Learn with Psudo** YouTube tutorials.
