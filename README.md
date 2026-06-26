@@ -556,7 +556,7 @@ https://github.com/sharsud/master
 
 </div>
 
-> **Note:** This animation requires a GitHub Actions workflow. We'll set it up in the final part.
+
 
 ---
 
