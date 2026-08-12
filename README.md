@@ -30,7 +30,7 @@
 
 # 👨‍💻 About Me
 
-I'm a **Senior QA Automation Engineer** with **11+ years of experience** designing automation frameworks, improving software quality, and solving complex engineering challenges across enterprise applications.
+I'm a **Senior QA Automation Engineer** with **over a decade of experience** designing automation frameworks, improving software quality, and solving complex engineering challenges across enterprise applications.
 
 Beyond software testing, I enjoy building IoT projects, experimenting with embedded systems, contributing to open source, and sharing technical knowledge through my YouTube channel **Learn with Psudo**.
 
