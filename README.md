@@ -550,9 +550,9 @@ https://github.com/sharsud/master
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sharsud&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=sharsud&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharsud&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sharsud&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -572,7 +572,9 @@ https://github.com/sharsud/master
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sharsud&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+<p align="center">
+  <img src="https://vercel.app" alt="sharsud's GitHub Trophies" />
+</p>
 
 </div>
 
