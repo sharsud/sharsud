@@ -604,7 +604,7 @@ https://github.com/sharsud/master
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=sharsud&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=sharsud&base=5000&style=for-the-badge&color=blue"/>
 
 </div>
 
