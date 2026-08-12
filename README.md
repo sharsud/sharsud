@@ -573,10 +573,11 @@ https://github.com/sharsud/master
 <div align="center">
 
 <p align="center">
-  <img src="https://vercel.app" alt="sharsud's GitHub Trophies" />
+  <img src="[https://vercel.app](https://github-profile-trophy-winning.vercel.app/?username=sharsud&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true)" alt="sharsud's GitHub Trophies" />
 </p>
 
 </div>
+
 
 ---
 
