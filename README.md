@@ -1,254 +1,204 @@
-# 👋 Hi, I'm Sudhanshu Sharma
+<div align="center">
 
-### Senior QA Automation Engineer · SDET · Automation Architect · IoT Builder
+<img src="./assets/hero.svg" alt="Sudhanshu Sharma — Quality Engineering, Automation, IoT" width="100%"/>
 
-I build **reliable automation, developer tooling, and software/hardware experiments** that turn repetitive engineering work into repeatable systems.
+<br/>
 
-My engineering focus sits at the intersection of:
+### QUALITY ENGINEERING • AUTOMATION • IOT • DEVELOPER PRODUCTIVITY
 
-**Test Automation · Quality Engineering · Developer Productivity · CI/CD · IoT · Technical Education**
+**I build systems that make software easier to trust.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-sharsud-181717?style=flat-square&logo=github)](https://github.com/sharsud)
-[![YouTube](https://img.shields.io/badge/Learn_with_Psudo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/)
+[ GitHub ](https://github.com/sharsud) · [ Projects ](#-selected-projects) · [ Engineering ](#-engineering-lab) · [ Learn with Psudo ](#-learn-with-psudo)
+
+</div>
 
 ---
 
-## 🧭 Engineering Philosophy
+## ⚡ The short version
 
-> **Automate the feedback loop, not just the test case.**
+I'm **Sudhanshu Sharma**, a Senior QA Automation Engineer / SDET focused on building reliable automation and engineering systems.
 
-I care about engineering systems that are:
-
-- **Reliable** — failures should be meaningful.
-- **Maintainable** — automation should not become another product to fight.
-- **Fast** — feedback should arrive while context is still fresh.
-- **Observable** — failures should explain *why*, not just *what*.
-- **Adaptable** — architecture should survive changing products and tooling.
+My sweet spot is where **quality, code, infrastructure and experimentation** meet.
 
 ```text
-             ┌──────────────────────┐
-             │      PRODUCT         │
-             └──────────┬───────────┘
-                        │
-                        ▼
-             ┌──────────────────────┐
-             │   QUALITY STRATEGY   │
-             └──────────┬───────────┘
-                        │
-          ┌─────────────┼─────────────┐
-          ▼             ▼             ▼
-      UI / E2E         API          SYSTEM
-          │             │             │
-          └─────────────┼─────────────┘
-                        ▼
-             ┌──────────────────────┐
-             │ AUTOMATED FEEDBACK   │
-             └──────────┬───────────┘
-                        ▼
-             ┌──────────────────────┐
-             │  INSIGHT → IMPROVE   │
-             └──────────────────────┘
+             PRODUCT
+                │
+        ┌───────┴────────┐
+        ▼                ▼
+   ENGINEERING        QUALITY
+        │                │
+        └───────┬────────┘
+                ▼
+          AUTOMATED SIGNAL
+                │
+        ┌───────┴────────┐
+        ▼                ▼
+      INSIGHT          ACTION
+        │                │
+        └───────┬────────┘
+                ▼
+          BETTER SYSTEM
 ```
 
----
-
-## 🧠 What I Work On
-
-| Domain | Focus |
-| --- | --- |
-| 🧪 Quality Engineering | Test strategy, automation architecture, regression, reliability |
-| 🎭 Web Automation | Playwright, Selenium, Page Objects, fixtures, E2E |
-| 🔌 API Testing | REST, contract-oriented testing, service validation |
-| ⚙️ CI/CD | GitHub Actions, Jenkins, Azure DevOps |
-| 🐍 Programming | Python, Java, JavaScript, TypeScript, C++, SQL |
-| 🔌 IoT | ESP32, Arduino, FastLED, Wi-Fi/BLE, MQTT |
-| 🎥 Education | Practical automation and engineering tutorials |
+> **I don't optimise for the number of tests.  
+> I optimise for the quality of feedback.**
 
 ---
 
-# 🚀 Selected Work
+# 🧠 Engineering DNA
 
-I like projects that sit somewhere between **useful, experimental, and slightly weird**.
+<div align="center">
+
+| 🧪 Quality | 🤖 Automation | ⚙️ Engineering | 🔌 IoT |
+|:---:|:---:|:---:|:---:|
+| Strategy | Playwright | CI/CD | ESP32 |
+| Reliability | Selenium | Developer tooling | Arduino |
+| API testing | PyTest | Git & GitHub | Wi-Fi / BLE |
+| E2E | TestNG | Docker | MQTT |
+
+</div>
+
+### My rules of thumb
+
+**01 — Automation is software.**  
+Test code deserves architecture, reviews, observability and maintenance discipline.
+
+**02 — Fast feedback beats massive suites.**  
+A smaller signal that engineers trust is more valuable than thousands of slow tests.
+
+**03 — Failure should teach you something.**  
+A good automation system helps answer *what failed, where, why, and what changed*.
+
+**04 — Make the boring invisible.**  
+If a computer can reliably do repetitive work, let it.
+
+**05 — Curiosity belongs in engineering.**  
+Some of my favourite experiments happen outside the traditional QA toolbox.
+
+---
+
+# 🚀 Selected Projects
 
 ### 🔌 ESP32 LED IoT
-
 **Hardware × Firmware × Networking**
 
-An ESP32-based project for controlling addressable LEDs.
+An ESP32-based IoT experiment controlling addressable LEDs and exploring the boundary between physical devices and software automation.
 
-**Explore:** [ESP32_led_IOT](https://github.com/sharsud/ESP32_led_IOT)
+→ **[ESP32_led_IOT](https://github.com/sharsud/ESP32_led_IOT)**
 
 ---
 
 ### 🎨 Drawasaur Auto Drawing
-
 **Automation × WebSockets × Computer Interaction**
 
-An experiment in programmatically creating drawings through socket-based interaction.
+An experiment in programmatic drawing through socket-based interaction — because automation doesn't have to stay inside a test runner.
 
-**Explore:** [ds_socket_drawing](https://github.com/sharsud/ds_socket_drawing)
+→ **[ds_socket_drawing](https://github.com/sharsud/ds_socket_drawing)**
 
 ---
 
 ### ☕ Selenium Java Frameworks
-
 **Java × Selenium × Test Architecture**
 
-A collection of Selenium automation framework approaches covering patterns used in maintainable UI automation.
+A collection of automation framework approaches covering maintainable UI automation patterns.
 
-**Explore:** [Selenium-Java-multipleFw](https://github.com/sharsud/Selenium-Java-multipleFw)
+→ **[Selenium-Java-multipleFw](https://github.com/sharsud/Selenium-Java-multipleFw)**
 
 ---
 
 ### 🎭 Playwright Automation
+**Modern Web Testing × TypeScript / JavaScript**
 
-**TypeScript / JavaScript × Modern Web Testing**
+A practical playground for fixtures, assertions, API testing, selectors, page objects and modern automation architecture.
 
-A playground for exploring modern Playwright patterns, fixtures, API testing, and maintainable automation.
-
-**Explore:** [PlaywrightAutomation](https://github.com/sharsud/PlaywrightAutomation)
+→ **[PlaywrightAutomation](https://github.com/sharsud/PlaywrightAutomation)**
 
 ---
 
 ### 🐍 Selenium Python Lessons
-
 **Learn → Build → Automate**
 
-Practical source code accompanying automation tutorials, designed to make browser automation easier to understand by building from fundamentals.
+Practical source code for learning browser automation from fundamentals upward.
 
-**Explore:** [sel-python-lessons](https://github.com/sharsud/sel-python-lessons)
-
----
-
-# 🤖 Where I'm Heading
-
-The next generation of quality engineering will not simply be about writing more tests.
-
-I'm interested in systems that help engineers **decide what to test, understand failures, reduce maintenance, and shorten feedback cycles.**
-
-Areas I'm exploring:
-
-```text
-AI-assisted engineering
-        │
-        ├── Test generation
-        ├── Failure analysis
-        ├── Test prioritization
-        ├── Flaky-test detection
-        ├── Maintenance assistance
-        └── Developer productivity
-```
-
-The principle is important:
-
-> **AI should amplify engineering judgment — not replace it.**
+→ **[sel-python-lessons](https://github.com/sharsud/sel-python-lessons)**
 
 ---
 
-# 🔭 Current Exploration
+# 🧪 Engineering Lab
 
-### AI × Quality Engineering
+I like exploring the space between **"this should work"** and **"let's actually build it."**
 
-Exploring practical applications of AI around test engineering, debugging, maintenance, and developer productivity.
+### 🤖 AI × Quality Engineering
 
-### IoT × Automation
+Exploring practical applications of AI for:
 
-Experimenting with the boundary between software automation and physical systems:
+`test generation` · `failure analysis` · `test prioritisation` · `flaky-test analysis` · `maintenance` · `developer productivity`
 
-`ESP32` · `Sensors` · `LEDs` · `Wi-Fi` · `BLE` · `MQTT`
+The goal isn't to replace engineering judgement.
 
-### Better Developer Experience
+**The goal is to give engineers better leverage.**
 
-Interested in tools and workflows that make engineers faster without making systems harder to understand.
+### 🔌 Software × Physical Systems
 
----
+Current curiosity:
 
-# 📺 Learn with Psudo
+`ESP32` · `Sensors` · `LEDs` · `Wi-Fi` · `BLE` · `MQTT` · `Automation`
 
-I create practical technical content through **Learn with Psudo**.
+### 🛠️ Developer Experience
 
-The goal:
-
-> **Less theory. More building.**
-
-Tutorials and experiments focus on automation, testing, programming, and engineering projects.
-
-→ [Learn with Psudo](https://www.youtube.com/)
+I'm interested in tools that make the correct engineering path **faster, clearer and easier to repeat**.
 
 ---
 
-# 📊 GitHub
+# 📈 GitHub, but self-maintained
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharsud&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharsud&hide_border=true" height="165" alt="GitHub contribution streak" />
-</p>
+These cards are **generated by GitHub Actions and stored inside this repository** rather than loaded from a public stats server.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharsud&layout=compact&hide_border=true" alt="Most used languages" />
-</p>
+That means the README doesn't depend on a third-party runtime endpoint for its statistics.
 
----
+<div align="center">
 
-# 🐍 Contribution Activity
+<img src="./profile/stats.svg" alt="GitHub statistics" width="49%"/>
+<img src="./profile/top-langs.svg" alt="Most used programming languages" width="49%"/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sharsud/sharsud/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
-</p>
+</div>
 
----
+<br/>
 
-# 🧩 A Few Things I Believe
+<div align="center">
 
-**Automation is software.**  
-Treat test code with the same engineering discipline as production code.
+<p><b>Contribution trail</b></p>
 
-**A green build is not automatically quality.**  
-The signal matters more than the checkbox.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg">
+  <img src="./profile/github-snake.svg" alt="GitHub contribution snake animation" width="100%">
+</picture>
 
-**Maintenance is a feature.**  
-If an automation suite cannot evolve, it is technical debt.
-
-**Good tooling disappears.**  
-The best developer experience makes the right thing easier.
-
-**Curiosity compounds.**  
-Some of the most useful engineering lessons come from building things outside your day job.
+</div>
 
 ---
 
-# 🤝 Let's Build Something
+# 🎥 Learn with Psudo
 
-I'm interested in conversations around:
+I also create practical technical content.
 
-- Quality Engineering
-- Test Automation
-- Playwright & Selenium
-- API Testing
-- CI/CD
-- Developer Productivity
-- AI-assisted Testing
-- IoT & ESP32
-- Technical Education
-- Open Source
+**The philosophy is simple:**
 
-If you're building something interesting, **I'd love to hear about it.**
+> Less theory. More building.
 
-<p align="center">
-  <a href="https://github.com/sharsud">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.youtube.com/">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-</p>
+Topics span automation, testing, programming and engineering experiments.
+
+→ **[Learn with Psudo](https://www.youtube.com/)**
 
 ---
+
+# 🧩 Technology Map
 
 <details>
-<summary><b>🛠️ Technology Map</b></summary>
+<summary><b>Open the toolbox</b></summary>
 
-<br />
+<br/>
 
 **Languages**
 
@@ -270,10 +220,44 @@ If you're building something interesting, **I'd love to hear about it.**
 
 `ESP32` `Arduino` `FastLED` `MQTT` `Wi-Fi` `BLE`
 
+**Approaches**
+
+`E2E` `API Testing` `BDD` `TDD` `Page Objects` `Continuous Testing`
+
 </details>
 
 ---
 
-<p align="center">
-  <sub>Built with curiosity · engineered for reliability · automated where it makes sense.</sub>
-</p>
+# 🌌 What's next?
+
+I'm deliberately building toward the intersection of:
+
+```text
+          AI
+         ╱  ╲
+        ╱    ╲
+   QUALITY ─── AUTOMATION
+        ╲    ╱
+         ╲  ╱
+          IoT
+```
+
+**Smarter feedback.  
+Less repetitive work.  
+More useful engineering.**
+
+---
+
+<div align="center">
+
+### 🤝 Build something interesting?
+
+If you're working on **quality engineering, automation, AI-assisted testing, developer productivity or IoT**, I'd love to hear about it.
+
+**[github.com/sharsud](https://github.com/sharsud)**
+
+<br/>
+
+<sub>Curious by default · rigorous when it matters · automated where it makes sense.</sub>
+
+</div>
