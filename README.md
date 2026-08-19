@@ -4,7 +4,7 @@
 
 ### 🚀 Senior QA Automation Engineer • SDET • IoT Builder • AI‑Driven Test Architect
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Top+1%25+Automation+Engineer+Worldwide;11%2B+Years+in+Quality+Engineering;AI+Assisted+Testing+%7C+Playwright+%7C+Selenium;ESP32+%7C+Arduino+%7C+IoT+Builder;Creator+of+Learn+with+Psudo"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Top+Grade+Automation+Engineering;14%2B+Years+in+Quality+Engineering;AI+Assisted+Testing+%7C+Playwright+%7C+Selenium;ESP32+%7C+Arduino+%7C+IoT+Builder;Creator+of+Learn+with+Psudo"/>
 
 </div>
 
@@ -50,8 +50,8 @@ ESP32 • Arduino • FastLED • MQTT • Wi‑Fi/BLE • Mobile App Integratio
 
 | 🚀 Impact | 🔧 Engineering | 🤖 Automation | 🔌 Innovation |
 |----------|----------------|--------------|--------------|
-| Top 1% Automation Engineer | Framework Architect | Playwright • Selenium • AI Testing | ESP32 • IoT Systems |
-| 11+ Years Experience | CI/CD • Cloud Pipelines | API • Web • Mobile | Smart Home Automation |
+| Best in class Automation | Framework Architect | Playwright • Selenium • AI Testing | ESP32 • IoT Systems |
+| 14+ Years Experience | CI/CD • Cloud Pipelines | API • Web • Mobile | Smart Home Automation |
 | 50+ YouTube Tutorials | Open Source Contributor | Modern Test Architecture | Embedded Systems |
 
 </div>
@@ -131,18 +131,6 @@ AI testing is now a **core skill** for top automation engineers.
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-stats-extended.vercel.app/api?username=sharsud&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sharsud&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
@@ -153,11 +141,21 @@ AI testing is now a **core skill** for top automation engineers.
 
 ---
 
-# 🏆 GitHub Achievements
+# 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-profile-trophy-winning.vercel.app/?username=sharsud&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://streak-stats.demolab.com?user=sharsud&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 👀 Profile Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sharsud&style=for-the-badge&color=blue" />
 
 </div>
 
